@@ -1,0 +1,28 @@
+Group 4
+Testing Doc
+Word Search Project
+
+i1: Tristan, 4x4, pic1.jpg, Words Entered: (mix, fix, win, bid, pine, dine, fine, wine, vine, view)
+o1: Point added. Current score: 10
+
+i2: Jubilee, 3x3, no picture, Words Entered: (key, zen, xe (not a word), rye)
+o2: Word not found. No points added.
+Point added. Current score: 3
+
+i3: Jessica, 5x5, no picture, Words Entered: (cry, run, i (not a word), milk, life, new, sun, gun, win, skin, in, fun, skunk, fish, dish, wish, here, where, mere, deer)
+o3: Word not found. No points added.
+Point added. Current score: 3
+Jessica had the high score of 19.
+blank.jpg displayed.
+
+i4: Quit
+o4: Window closed
+
+i5: Tristan, 3x3, pic2.jpg, Quit
+o5: Window closed
+
+i6: Tristan, 3x3, pic2.jpg, High Scores, Quit
+o6: Window closed
+
+i7: Deleted player_data.txt
+o7: Init_window recreated player_data.txt
